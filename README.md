@@ -1,5 +1,14 @@
 # Morse Translator
 
+### 
+|    Morse Translator (MorseC0D3)    |
+| ------------- |
+|![ETLE](https://i.ibb.co/x6hKdSt/Copy-of-Copy-of-Black-Modern-Web-3-Technology-You-Tube-Thumbnail-1.png)|
+
+|    morsedecoder.com  (Morse Voice Translator)    |
+| ------------- |
+|             ![ETLE](https://i.ibb.co/C9RCjwY/wqewqewqeqw.png)|
+
 ## Deskripsi
 "Morse Translator" adalah sebuah alat sederhana untuk menerjemahkan teks ke kode Morse dan sebaliknya. Alat ini memungkinkan pengguna untuk berkomunikasi menggunakan Morse code dengan mudah. Selain itu, aplikasi ini juga dilengkapi dengan fitur penyimpanan hasil terjemahan dalam format JSON.
 
@@ -76,3 +85,8 @@ Kode Morse Asli: .... . .-.. .-.. --- --..--   .-- --- .-. .-.. -.. -.-.--
 Teks Terjemahan: HELLO, WORLD!
 -----------------
 ```
+
+### Author
+
+- [@Imhunterand](https://www.github.com/imhunterand)
+- [@PWN0SEC](https://www.github.com/pwn0sec)
